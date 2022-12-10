@@ -1,5 +1,5 @@
 import random
-
+#we imported random module from library
 
 class TicTacToe:
 
